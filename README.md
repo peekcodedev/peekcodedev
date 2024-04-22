@@ -57,10 +57,6 @@ Support ChatCool on KoFi:
 
 ## Activity On GitHub
 
-<p align="center">
-  <a href="https://github.com/peekcodedev">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=peekcodede&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peekcodedev&" alt="peekcodedev" /></p>
 
 ## Top Respositorys

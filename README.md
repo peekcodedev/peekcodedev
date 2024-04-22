@@ -53,9 +53,7 @@ Support ChatCool on KoFi:
 <p align="left"> <a href="https://github.com/peekcodedev"><img src="https://skillicons.dev/icons?i=vscode,androidstudio,github,mongodb,css,html,mysql,python,nodejs,kotlin,flutter,dart,java"> </a> </p>
 
 ## My Stats:
-<p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=peekcodedev&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peekcodedev&show_icons=true&locale=en&layout=compact" alt="peekcodedev" /></p>
 
 ## Activity On GitHub
 

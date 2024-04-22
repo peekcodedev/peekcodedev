@@ -26,14 +26,14 @@
     <tr>
       <!-- <td>
         <div align="center">
-          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
+          <a href="https://github.com/peekcodedev"><img src="https://github.com/Thinkright20.png" alt="@peekcodedev" width="52" /></a>
           <br />
-          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
+          <a align="center" href="https://github.com/peekcodedev"><b>peekcodedev</b></a>
         </b>
       </td> -->
       <!-- Profile Views -->
       <td>
-         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/peekcodedev"> <img src="https://komarev.com/ghpvc/?username=peekcodedev&style=for-the-badge&color=brightgreen"> </a>
       </td>
     </tr>
   </table>
@@ -42,11 +42,11 @@
 
 - 🔭 Working on ChatCool (Bot)
 - 🌱 Learning Node.js & more
-- 📫 How to contact me: https://scratch.mit.edu/users/Thinkright20man/, thinkright20 (Discord), 
+- 📫 How to contact me: https://scratch.mit.edu/users/Thinkright20man/, peekcodedev (Discord), 
 
 Support ChatCool on KoFi:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7JKG27)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/masulin)
 
 ## Languages and Tools
 

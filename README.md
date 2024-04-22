@@ -38,7 +38,7 @@
 
 <h3 align="left">Language Programming:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peekcodedev&show_icons=true&locale=en&layout=compact" alt="peekcodedev" /></p><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peekcodedev&show_icons=true&locale=en&layout=compact" alt="peekcodedev" /></p></br><br>
 
 <h3 align="left">My Stats:</h3>
 

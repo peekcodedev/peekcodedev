@@ -60,3 +60,6 @@ Support ChatCool on KoFi:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peekcodedev&" alt="peekcodedev" /></p>
 
 ## Language Programming
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peekcodedev&show_icons=true&locale=en&layout=compact" alt="peekcodedev" /></p>
+

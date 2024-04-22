@@ -36,8 +36,14 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/masulin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="masulin" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peekcodedev&show_icons=true&locale=en&layout=compact" alt="peekcodedev" /></p>
+<h3 align="left">Language Programming:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peekcodedev&show_icons=true&locale=en" alt="peekcodedev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peekcodedev&show_icons=true&locale=en&layout=compact" alt="peekcodedev" /></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peekcodedev&" alt="peekcodedev" /></p>
+<h3 align="left">My Stats:</h3>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peekcodedev&show_icons=true&locale=en" alt="peekcodedev" /></p><br><br>
+
+<h3 align="left">Activity On GitHub:</h3>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peekcodedev&" alt="peekcodedev" /></p><br><br>

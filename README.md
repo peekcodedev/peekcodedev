@@ -12,7 +12,7 @@
   <a href="https://ko-fi.com/masulin"><img alt="Kofi" title="Kofi" src="https://img.shields.io/badge/-Kofi-ff7389?style=for-the-badge&logo=kofi&logoColor=white"/></a>
 <a href="https://github.com/peekcodedev?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/peekcodedev?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-   <a href="https://github.com/peekcodedev"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+   <a href="https://github.com/peekcodedev"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/peekcodedev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
  </p>
  
 ## Profile Views
